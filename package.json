@@ -1,0 +1,13 @@
+{
+  "name": "gl82",
+  "version": "0.0.1",
+  "dependencies": {
+    "nodetime": ">= 0.8.13",
+    "express": ">= 3.3.5",
+    "jade": ">= 0.35.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
